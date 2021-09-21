@@ -1,0 +1,53 @@
+table {
+  background-color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  width: 30%;
+  border: 0px;
+}
+
+table thead {
+  background-color: rgb(61, 54, 54);
+  color: white;
+  text-align: left;
+}
+
+table .orta {
+  text-align: center;
+}
+
+table .sag {
+  text-align: right;
+}
+
+table .sag2 {
+  text-align: right;
+}
+
+table .koyu {
+  background-color: rgb(173, 167, 167);
+}
+
+table .acik {
+  background-color: rgb(228, 226, 226);
+}
+
+table .foot {
+  background-color: rgb(61, 54, 54);
+  color: white;
+  font-weight: 600;
+}
+table .extra {
+  background-color: white;
+  border: 0px;
+}
+
+table .buton {
+  background: rgb(236, 97, 42);
+  border: 0px;
+  padding: 6px 2px;
+  width: 150px;
+}
+
+table .buton a {
+  text-decoration: none;
+}
