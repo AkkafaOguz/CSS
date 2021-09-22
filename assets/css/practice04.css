@@ -1,0 +1,40 @@
+.menu {
+    
+    width: 200px;
+    
+}
+
+.menu .buton {
+
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+    background-color:rgb(219, 215, 215);
+
+    
+}
+
+.menu:hover ul {
+
+    display: block;
+}
+
+.menu .buton a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu ul {
+
+    
+    margin: 0px;
+    list-style-type: none;
+    padding: 10px;
+    display: none;
+}
+
+.menu ul li {
+
+    
+    padding: 2px;
+}

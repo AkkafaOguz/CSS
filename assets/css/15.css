@@ -1,0 +1,23 @@
+.text-box {
+
+    display: inline-block;
+    
+    position: relative;  /*  bunun ile child'in sinirlarini parentten icinde tutuyoruz*/
+
+
+}
+
+.text-box .fa-search {
+
+    position: absolute;
+    right: 5px;
+    top: 2px;
+
+}
+
+.text-box input {
+
+    padding-right: 30px;
+    border: 1px solid black;
+    border-radius: 8px;
+}

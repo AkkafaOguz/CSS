@@ -2,7 +2,13 @@ table {
   background-color: white;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   width: 30%;
-  border: 0px;
+  
+}
+
+table th, td {
+
+  border: 1px solid black;
+ 
 }
 
 table thead {
@@ -39,6 +45,7 @@ table .foot {
 table .extra {
   background-color: white;
   border: 0px;
+  
 }
 
 table .buton {
@@ -46,7 +53,11 @@ table .buton {
   border: 0px;
   padding: 6px 2px;
   width: 150px;
+  
+  
 }
+
+
 
 table .buton a {
   text-decoration: none;

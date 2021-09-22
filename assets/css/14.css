@@ -1,0 +1,31 @@
+.ust-menu {
+  background-color: rgb(165, 161, 161);
+}
+
+.header div,
+.ust-menu div {
+  display: inline-block;
+  width: 48%;
+  padding: 5px;
+}
+
+.ust-sag-menu {
+  text-align: right;
+}
+
+.ust-menu a {
+  text-decoration: none;
+  color: white;
+}
+
+.header .menu {
+  text-align: right;
+  text-decoration: none;
+  color: white;
+}
+
+.header {
+  background-color: gray;
+  position: sticky;
+  top: 0;
+}
